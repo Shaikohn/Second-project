@@ -91,6 +91,13 @@ body {
 
 /* HOME */
 
+.title {
+        height: 500px;
+        margin-left: 20px;
+        margin-top: 20px;
+        width: 600px;
+        }
+
 .slidershow{
     border: 2px solid #99005778;
     width:600px;
@@ -101,8 +108,8 @@ body {
 
 .middle{
     position: absolute;
-    top: 40%;
-    left: 70%;
+    top: 50%;
+    left: 75%;
     transform: translate(-50%, -50%);
 }
 
